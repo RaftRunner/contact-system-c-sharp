@@ -1,0 +1,14 @@
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\bin\Debug\net8.0\contactSystem.exe
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\bin\Debug\net8.0\contactSystem.deps.json
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\bin\Debug\net8.0\contactSystem.runtimeconfig.json
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\bin\Debug\net8.0\contactSystem.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\bin\Debug\net8.0\contactSystem.pdb
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\obj\Debug\net8.0\contactSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\obj\Debug\net8.0\contactSystem.AssemblyInfoInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\obj\Debug\net8.0\contactSystem.AssemblyInfo.cs
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\obj\Debug\net8.0\contactSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\obj\Debug\net8.0\contactSystem.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\obj\Debug\net8.0\refint\contactSystem.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\obj\Debug\net8.0\contactSystem.pdb
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\obj\Debug\net8.0\contactSystem.genruntimeconfig.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\contactSystem\obj\Debug\net8.0\ref\contactSystem.dll
